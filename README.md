@@ -1,2 +1,2 @@
 # NiceUSB
-NICE scripts for BadUSB functions on MacOS (NON-DESTRUCTIVE)
+NICE scripts for BadUSB/FlipperZero functions on MacOS (NON-DESTRUCTIVE)
