@@ -1,2 +1,2 @@
-# badusb
-BadUSB scripts for macos (NON-DESTRUCTIVE)
+# NiceUSB
+NICE scripts for BadUSB functions on MacOS (NON-DESTRUCTIVE)
